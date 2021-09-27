@@ -10,7 +10,7 @@ body {
   min-height: 100vh;
 }
 #all {
-  flex-direction: row;
+  flex-direction: column;
   background-image: url("mario-fundo.png");
   background-repeat: no-repeat;
   background-position: center,center;
